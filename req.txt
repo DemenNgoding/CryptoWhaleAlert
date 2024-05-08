@@ -1,0 +1,15 @@
+colored
+dash
+dash_core_components
+dash_html_components
+dash_table
+icecream
+ipython
+matplotlib
+notify2
+numpy
+pandas
+requests
+seaborn
+snoop
+whale_alert
